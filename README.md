@@ -11,4 +11,4 @@ Description: This project is everything I learned till now, these are the follow
   - lists
   - images and links
 
-  
+That's why I created this project to make practice of what I learneds
