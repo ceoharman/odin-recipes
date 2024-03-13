@@ -6,8 +6,19 @@ body {
   font-family: helvetica, sans-serif;
 }
 
+/* heading here */ 
+
+.odin {
+  background-color: #85cb33;
+  padding: 30px;
+  margin: 30px;
+  border-left: 20px solid darkolivegreen;
+  border-bottom: black dotted 3px;
+  border-top: 10px double white;
+}
+
 /* image styles is here */
 
-.img {
-  border: 10px;
+.las, img {
+  width: 400px;
 }
