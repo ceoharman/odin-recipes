@@ -16,8 +16,21 @@ body {
   border-bottom: double darkolivegreen 10px;
 }
 
-.p1, .ul1, li, .li1 {
+/* made the repetable items here */
+
+.p1, .ul1 {
   background-color: white;
   padding: 30px;
   margin: 0 20px;
+}
+
+.li {
+  background-color: white;
+  margin: 0 20px;
+}
+
+/* made the ul border dotted here */
+
+.ul1 {
+  border-bottom: dotted darkolivegreen 3px;
 }
