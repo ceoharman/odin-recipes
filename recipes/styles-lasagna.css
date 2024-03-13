@@ -1,0 +1,13 @@
+
+/* this applies to the whole page */
+
+body {
+  background-color: #efffc8;
+  font-family: helvetica, sans-serif;
+}
+
+/* image styles is here */
+
+.img {
+  border: 10px;
+}
