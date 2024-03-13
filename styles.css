@@ -1,0 +1,38 @@
+/* universal for the universal one */
+
+* {
+  background-color: #efffc8;
+}
+
+/* This one is for the heading */
+
+.h1 {
+  background-color: #85cb33;
+  font-family: Helvetica, sans-serif;
+  padding: 30px;
+  margin: 20px;
+  margin-bottom: 0px;
+  border-left: solid black 20px;
+  border-top: white dotted 3px;
+  border-bottom: double darkolivegreen 10px;
+}
+
+.p1, .ul1 {
+  background-color: white;
+  font-family: Helvetica, sans-serif;
+  padding: 30px;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+}
+
+.li1 {
+  background-color: white;
+  display: block;
+  font-family: Helvetica, sans-serif;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+}
