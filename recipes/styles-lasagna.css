@@ -4,6 +4,7 @@
 body {
   background-color: #efffc8;
   font-family: helvetica, sans-serif;
+  margin: 0 30px;
 }
 
 /* heading here */ 
@@ -11,7 +12,6 @@ body {
 .odin {
   background-color: #85cb33;
   padding: 30px;
-  margin: 30px;
   border-left: 20px solid darkolivegreen;
   border-bottom: black dotted 3px;
   border-top: 10px double white;
@@ -21,4 +21,12 @@ body {
 
 .las, img {
   width: 400px;
+}
+
+/* here comes the description value */
+
+.des {
+  background-color: #85cb33;
+  padding: 10px;
+  border-left: 5px solid black;
 }
