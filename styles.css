@@ -34,3 +34,9 @@ body {
 .ul1 {
   border-bottom: dotted darkolivegreen 3px;
 }
+
+.ul1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: centre;
+}
